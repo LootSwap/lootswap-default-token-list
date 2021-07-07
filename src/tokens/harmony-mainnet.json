@@ -238,5 +238,38 @@
     "name": "bscWise Token",
     "decimals": 18,
     "logoURI": "https://lootswap.finance/tokens/bscWISB.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x69f4e54C666f7DDaf66D11876f557EC21cB65F35",
+    "symbol": "BARD",
+    "name": "Bard",
+    "decimals": 18,
+    "logoURI": "https://lootswap.finance/tokens/BARD.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x25dceE96FCD63Ad88B812cCE02b3Fcf7d1504F2D",
+    "symbol": "TROLL",
+    "name": "Troll",
+    "decimals": 18,
+    "logoURI": "https://lootswap.finance/tokens/TROLL.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x044246137670A03ca790D7ED20AF0C552c88117c",
+    "symbol": "ARB",
+    "name": "Arbiter",
+    "decimals": 18,
+    "logoURI": "https://lootswap.finance/tokens/ARB.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x9fe8a9A6B4Af9BD656B0295bd5Ad4A65b37165aC",
+    "symbol": "NECRO",
+    "name": "Necromancer",
+    "decimals": 18,
+    "logoURI": "https://lootswap.finance/tokens/NECRO.png"
   }
+  
 ]
