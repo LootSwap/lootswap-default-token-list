@@ -270,6 +270,14 @@
     "name": "Necromancer",
     "decimals": 18,
     "logoURI": "https://lootswap.finance/tokens/NECRO.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x463C684C0dc0a1163DB5A9b57D9847EFc28C418a",
+    "symbol": "GG",
+    "name": "GG",
+    "decimals": 18,
+    "logoURI": "https://lootswap.finance/tokens/GG.png"
   }
   
 ]
