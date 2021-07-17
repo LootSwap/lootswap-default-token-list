@@ -20,7 +20,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://lootswap.finance/tokens/LOOT.png",
+    logoURI: "https://legacy.lootswap.finance/tokens/LOOT.png",
     keywords: ["lootswap", "default"],
     tokens: [...bscMainnet, ...bscTestnet, ...harmonyMainnet, ...harmonyTestnet]
       // sort them by symbol for easy readability
