@@ -286,5 +286,13 @@
     "name": "DaVinci Token",
     "decimals": 18,
     "logoURI": "https://davinci.gallery/media/vinci_blue.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x8948985338e836f82435efc944fe5131c734c18e",
+    "symbol": "YOG",
+    "name": "Yogurt",
+    "decimals": 18,
+    "logoURI": "https://www.yogurt.rocks/img/logo-512x512.png"
   }
 ]
