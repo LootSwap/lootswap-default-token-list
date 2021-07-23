@@ -41,6 +41,14 @@
     },
     {
       "chainId": 1666600000,
+      "address": "0x90D81749da8867962c760414C1C25ec926E889b6",
+      "symbol": "1UNI",
+      "name": "Uniswap",
+      "decimals": 18,
+      "logoURI": "https://legacy.lootswap.finance/tokens/1UNI.png"
+    },
+    {
+      "chainId": 1666600000,
       "address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
       "symbol": "1WBTC",
       "name": "Wrapped BTC",
