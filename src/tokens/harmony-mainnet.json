@@ -238,5 +238,53 @@
       "name": "DaVinci Token",
       "decimals": 18,
       "logoURI": "https://davinci.gallery/media/vinci_blue.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79",
+      "symbol": "VIPER",
+      "name": "Viper",
+      "decimals": 18,
+      "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/logos/venomswap-128x128.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x0dD740Db89B9fDA3Baadf7396DdAD702b6E8D6f5",
+      "symbol": "hMOCHI",
+      "name": "MochiSwap Token",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/16319/small/mochi_06_%28original_size%29.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x4970417a897Cc7ae812b9b8Db34bb44833C26739",
+      "symbol": "COINK",
+      "name": "Piggybankone",
+      "decimals": 18,
+      "logoURI": "https://piggybank.farm/images/price-token.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
+      "symbol": "1SUSHI",
+      "name": "SushiToken",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x8D4F19bec883Ba20F4f295706C53F760Cd0BC2B0",
+      "symbol": "MOONI",
+      "name": "Moonity",
+      "decimals": 9,
+      "logoURI": "https://legacy.lootswap.finance/tokens/MOONI.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x2F459Dd7CBcC9D8323621f6Fb430Cd0555411E7B",
+      "symbol": "JENN",
+      "name": "TokenJenny",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15868/small/VNhEzm2X_400x400.jpg"
     }
 ]
