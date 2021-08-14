@@ -286,5 +286,13 @@
       "name": "TokenJenny",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/15868/small/VNhEzm2X_400x400.jpg"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xab965375C9c109b8e1a4c4f7422B199EE36682B0",
+      "symbol": "$LIFE",
+      "name": "Extra Life",
+      "decimals": 18,
+      "logoURI": "https://legacy.lootswap.finance/tokens/$LIFE.png"
     }
 ]
