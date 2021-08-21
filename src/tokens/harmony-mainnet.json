@@ -310,5 +310,13 @@
       "name": "Cosmic",
       "decimals": 9,
       "logoURI": "https://legacy.lootswap.finance/tokens/COSMIC.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xc0431Ddcc0D213Bf27EcEcA8C2362c0d0208c6DC",
+      "symbol": "oSWAP",
+      "name": "OpenSwap Token",
+      "decimals": 18,
+      "logoURI": "https://legacy.lootswap.finance/tokens/OSWAP.png"
     }
 ]
