@@ -318,5 +318,13 @@
       "name": "OpenSwap Token",
       "decimals": 18,
       "logoURI": "https://legacy.lootswap.finance/tokens/OSWAP.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xd62bD801A1cb65532DeF9908c67B8C00f432C1bb",
+      "symbol": "LBLOX",
+      "name": "LootBlocks Protocol",
+      "decimals": 18,
+      "logoURI": "https://lootblocks.one/_next/image?url=%2Flootblocks.svg&w=96&q=96"
     }
 ]
