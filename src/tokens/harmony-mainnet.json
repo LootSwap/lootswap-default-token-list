@@ -326,5 +326,13 @@
       "name": "LootBlocks Protocol",
       "decimals": 18,
       "logoURI": "https://lootblocks.one/_next/image?url=%2Flootblocks.svg&w=96&q=96"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x6cc35220349C444c39b8e26b359757739aAEc952",
+      "symbol": "CGS",
+      "name": "Cougar Token",
+      "decimals": 18,
+      "logoURI": "https://legacy.lootswap.finance/tokens/CGS.png"
     }
 ]
