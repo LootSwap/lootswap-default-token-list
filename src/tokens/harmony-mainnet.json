@@ -358,5 +358,13 @@
       "name": "FOOL",
       "decimals": 18,
       "logoURI": "https://legacy.lootswap.finance/tokens/FOOL.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x352cd428EFd6F31B5cae636928b7B84149cF369F",
+      "symbol": "1CRV",
+      "name": "Curve DAO Token",
+      "decimals": 18,
+      "logoURI": "https://legacy.lootswap.finance/tokens/CRV.png"
     }
 ]
